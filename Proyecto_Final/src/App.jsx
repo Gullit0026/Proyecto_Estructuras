@@ -1,4 +1,3 @@
-// src/App.js
 import React from 'react';
 import Navbar from './Components/Shared/navBar';
 import Home from './Components/Index/Home';
